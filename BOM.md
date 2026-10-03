@@ -20,7 +20,7 @@
 | [KBB-20](https://nanoparuro.com/shop/kbb-20-switch-deslizable-2-posiciones-kbb-20-132?search=KBB-2&order=name+asc#attr=) | Power Switch | 1 | $0.35 | $0.35 | [Nanoparuro](https://nanoparuro.com/shop/kbb-20-switch-deslizable-2-posiciones-kbb-20-132?search=KBB-2&order=name+asc#attr=) |
 | [ESP-WROOM-32](https://hifisac.com/shop/esp32-wroom-32-esp-wroom-32-placa-de-desarrollo-esp32-wroom32-38-pines-modulo-bluetooth-con-cp2102-1533?search=esp32&order=name+asc#attr=) | Wi-Fi and the main loop | 1 | $9.55 | $9.55 | [Hi-Fi Electronica](https://hifisac.com/shop/esp32-wroom-32-esp-wroom-32-placa-de-desarrollo-esp32-wroom32-38-pines-modulo-bluetooth-con-cp2102-1533?search=esp32&order=name+asc#attr=) |
 | **Parts subtotal** | — | — | — | **$27.27** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$27.27** | — |
+| **Tax & shipping** | — | — | — | **$8.37** | — |
+| **Total** | — | — | — | **$35.64** | — |
 
-$37.73 left of the tier's funding.
+$29.36 left of the tier's funding.
