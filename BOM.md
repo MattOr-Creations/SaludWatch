@@ -23,7 +23,7 @@
 | [MT3608 step up](https://nanoparuro.com/shop/mt3608-mt3608-conversor-dc-dc-step-up-ajustable-2-a-24-vsal-28v-242?search=MT3608&order=name+asc#attr=) | Power adapter | 1 | $1.60 | $1.60 | [Nanoparuro](https://nanoparuro.com/shop/mt3608-mt3608-conversor-dc-dc-step-up-ajustable-2-a-24-vsal-28v-242?search=MT3608&order=name+asc#attr=) |
 | [USB-TC 1 meter](https://nanoparuro.com/shop/usb-tc-cable-usb-a-tipo-c-para-transferir-datos-de-1-metro-usb-tc-1610#attr=) | Charging purposes | 1 | $2.90 | $2.90 | [Nanoparuro](https://nanoparuro.com/shop/usb-tc-cable-usb-a-tipo-c-para-transferir-datos-de-1-metro-usb-tc-1610#attr=) |
 | **Parts subtotal** | — | — | — | **$37.56** | — |
-| **Tax & shipping** | — | — | — | **$8.37** | — |
-| **Total** | — | — | — | **$45.93** | — |
+| **Tax & shipping** | — | — | — | **$9.00** | — |
+| **Total** | — | — | — | **$46.56** | — |
 
-$19.07 left of the tier's funding.
+$18.44 left of the tier's funding.
