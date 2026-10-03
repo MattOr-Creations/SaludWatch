@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A wristwatch for elder people that also measures heart rate, blood oxygen and skin temperature with sensors connected to a ESP32-C3 board. It uses the board's built-in Wi-Fi for the time syncronization and to send alerts to nearby familiars If any value is not adequate. Since it's built for elder people it will have large buttons and just a few functions that are easy to comprehend. Useful If you have familiars that want to check their vitals at any moment of the day while also getting to know when they should take their medicine.
+> A wristwatch for elder people that also measures heart rate, blood oxygen and skin temperature with sensors connected to a ESP32-WROOM-32 38-pin dev board. It uses the board's built-in Wi-Fi for the time syncronization and to send alerts to nearby familiars If any value is not adequate. Since it's built for elder people it will have large buttons and just a few functions that are easy to comprehend. Useful If you have familiars that want to check their vitals at any moment of the day while also getting to know when they should take their medicine.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |

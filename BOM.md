@@ -12,15 +12,14 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [ESP32-C3 Super Mini](https://mtlab.pe/producto/esp32-c3-supermini-placa-de-desarrollo-wifi-bluetooth-esp32c3/?srsltid=AU7gw4Uxd54TrcB8kY4cZfK2_vGesPJs6a67SNgcE2BXrr52HgVeeFKx) | Wi-FI and main loop | 1 | $5.80 | $5.80 | [MTLAB](https://mtlab.pe/producto/esp32-c3-supermini-placa-de-desarrollo-wifi-bluetooth-esp32c3/?srsltid=AU7gw4Uxd54TrcB8kY4cZfK2_vGesPJs6a67SNgcE2BXrr52HgVeeFKx) |
 | [OLED 0.96inch 12c display](https://nanoparuro.com/shop/oled096-i2c-display-oled-0-96-pulgadas-i2c-oled096-i2c-1111?search=OLED&order=name+asc#attr=) | Display | 1 | $5.80 | $5.80 | [Nanoparuro](https://nanoparuro.com/shop/oled096-i2c-display-oled-0-96-pulgadas-i2c-oled096-i2c-1111?search=OLED&order=name+asc#attr=) |
 | [TP4056 charger with protection](https://nanoparuro.com/shop/tp4056-prot-tp4056-prot-cargador-con-proteccion-para-baterias-de-litio-3-7v-con-entrada-micro-usb-233?search=TP4056&order=name+asc#attr=) | Charging the ESP32-C3 | 1 | $1.42 | $1.42 | [Nanoparuro](https://nanoparuro.com/shop/tp4056-prot-tp4056-prot-cargador-con-proteccion-para-baterias-de-litio-3-7v-con-entrada-micro-usb-233?search=TP4056&order=name+asc#attr=) |
 | [3.7V 1000 mAh LiPo battery](https://nanoparuro.com/shop/bateria-de-3-7v-litio-366?search=Bateria&order=name+asc#attr=550) | Power | 1 | $4.35 | $4.35 | [Nanoparuro](https://nanoparuro.com/shop/bateria-de-3-7v-litio-366?search=Bateria&order=name+asc#attr=550) |
 | [MAX30102  pulse oximeter module](https://nanoparuro.com/shop/max30102-modulo-sensor-de-pulso-de-ritmo-cardiaco-pulsioximetro-pulsimetro-oximetro-max30102-1672?search=MAX30205&order=name+asc#attr=) | Heart rate sensor | 1 | $2.90 | $2.90 | [Nanoparuro](https://nanoparuro.com/shop/max30102-modulo-sensor-de-pulso-de-ritmo-cardiaco-pulsioximetro-pulsimetro-oximetro-max30102-1672?search=MAX30205&order=name+asc#attr=) |
 | [DS18B20 waterproof probe](https://nanoparuro.com/shop/ds18b20-cable-sensor-de-temperatura-digital-ds18b20-a-prueba-de-agua-55degc-a-125degc-304?search=DS18B20&order=name+asc#attr=) | Temperature sensor | 1 | $2.90 | $2.90 | [Nanoparuro](https://nanoparuro.com/shop/ds18b20-cable-sensor-de-temperatura-digital-ds18b20-a-prueba-de-agua-55degc-a-125degc-304?search=DS18B20&order=name+asc#attr=) |
 | [KBB-20](https://nanoparuro.com/shop/kbb-20-switch-deslizable-2-posiciones-kbb-20-132?search=KBB-2&order=name+asc#attr=) | Power Switch | 1 | $0.35 | $0.35 | [Nanoparuro](https://nanoparuro.com/shop/kbb-20-switch-deslizable-2-posiciones-kbb-20-132?search=KBB-2&order=name+asc#attr=) |
-| **Parts subtotal** | — | — | — | **$23.52** | — |
+| **Parts subtotal** | — | — | — | **$17.72** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$23.52** | — |
+| **Total** | — | — | — | **$17.72** | — |
 
-$41.48 left of the tier's funding.
+$47.28 left of the tier's funding.
