@@ -49,5 +49,20 @@ graph TD;
 - `Firmware/` — Code? Not yet, planned for the future functional prototype
 - `Docs/` — Misc, non-editable files, images
 
+## Layout + 3D design
+The final third design of all my drawn designs, had to do a box because 3D modelling is hard ;(. (Especially considering I have never done it, I was happy once I found out I could make any weird shaped figure with the line and extrude tool!)
+<img width="950" height="438" alt="image" src="https://github.com/user-attachments/assets/1b4e75eb-0630-4783-9687-22a0e49f0534" />
+
+Board layout which I used to make the 3D Case model
+<img width="772" height="545" alt="image" src="https://github.com/user-attachments/assets/cbe80eb7-acf7-46f1-8c93-33622b292007" />
+
+Exterior view, here we can see the lid, walls and strap lugs. The lid has one hole for the OLED display and two square sized ones for the two buttons. At the strap lugs' side we can also see the slideSwitch hole and to the side another one for the DS18B20
+<img width="820" height="613" alt="image" src="https://github.com/user-attachments/assets/877963da-5b32-4277-ad35-214c0625bde9" />
+
+(Only-Base view, see that hole in the distance? That's for the ESP32-WROOM32, and also opposite hole to the DS18B20 hole is for the micro-usb charger for the TP4056)
+<img width="854" height="581" alt="image" src="https://github.com/user-attachments/assets/327072af-cfd6-418b-91e9-ff8f85392ee7" />
+
+Lid+2layer view. Here we can appreciate the beautifully modelled lid, I even made a fit-able lid using the join operation with the extrude tool! And about the two layers, that coin sized hole is for the connections between all the modules. The layers aren't really attached at all, there's an space of 0.3mm from all sides with the two shelves I made[You can see them in the second pic]
+
 ## Limitations
 Some parts such as the ESP32 board, the battery, the step up, and DS18B20 are very large and are only meant to prove the functionality of the prototype, they will change in a later version(They are also the only ones I found available near my hometown). I might also have mentioned that a blood pressure module would be added, but since they are VERY expensive(40$) and exceed the budget, those will be totally optional.
