@@ -23,13 +23,13 @@ graph TD;
     USBCharger-->TP4056;
     TP4056-->SlideSwitch;
     TP4056-->3.7VLiPobattery
-    SlideSwitch-->ESP32-C3SuperMinicontroller+Wi-Fi;
-    MAX30102-->|I2C|ESP32-C3SuperMinicontroller+Wi-Fi;
-    DS18B20-->|1-Wire|ESP32-C3SuperMinicontroller+Wi-Fi;
-    Buttons-->ESP32-C3SuperMinicontroller+Wi-Fi;
-    ESP32-C3SuperMinicontroller+Wi-Fi-->|I2C|1.3inOLEDdisplay;
-    ESP32-C3SuperMinicontroller+Wi-Fi-->Buzzer+LED;
-    ESP32-C3SuperMinicontroller+Wi-Fi-->|Wi-Fi|AlertToFamily;
+    SlideSwitch-->ESP32-WROOM-32;
+    MAX30102-->|I2C|ESP32-WROOM-32;
+    DS18B20-->|1-Wire|ESP32-WROOM-32;
+    Buttons-->ESP32-WROOM-32;
+    ESP32-WROOM-32-->|I2C|1.3inOLEDdisplay;
+    ESP32-WROOM-32-->Buzzer+LED;
+    ESP32-WROOM-32-->|Wi-Fi|AlertToFamily;
 ```
 
 ### Expected program flow
