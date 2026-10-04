@@ -11,7 +11,8 @@ And that's how SaludWatch was born, the Wi-Fi, LED and buzzer functions were add
 
 (Schematic of the SaludWatch)
 
-Now, let's get technical, how does it really work?
+## Now, let's get technical, how does it really work?
+
 + The sensors, display, buzzer, and buttons connect to an ESP32-WROOM-32 development board.
 + The board reads the sensors, draws everything on a small OLED display, and uses its built-in Wi-Fi to sync the time and send alerts.
 + A LiPo battery powers it through a TP4056 charging module with battery protection (Using the USB charger).
@@ -30,3 +31,19 @@ graph TD;
     ESP32-C3SuperMinicontroller+Wi-Fi-->Buzzer+LED;
     ESP32-C3SuperMinicontroller+Wi-Fi-->|Wi-Fi|AlertToFamily;
 ```
+
+### Expected program flow
+1. Boot, connect to Wi-Fi and sync to the local time zone then disconnect(Other modules are still active)
+2. Time will show, the screen wakes up if any button is pressed.
+3. Press the forward button to send a measurement request, wait 15-30 seconds after a "Keep still" notice, then show results on the OLED.
+4. If the old person needs to take medicine soon or something is off, the buzzer will sound and the LED flash, an alert will ONLY be sent If something is off.
+5. Otherwise the old person can check their vitals and then the device goes into energy-saving mode, wakes up on a button press.
+
+## ESSENTIAL file locations
+
+- `Hardware/` — 3D Case design and Schematic with wiring using labels
+- `Hardware/Case/3DCase.f3d` — 3D Case design
+- `Hardware/kicad/SaludWatch.kicad_pro` — Kicad Schematic + Wiring
+- `Hardware/kicad/SaludWatch.kicad_sch` — Kicad Schematic + Wiring
+- `Firmware/` — Code? Not yet, planned for the future functional prototype
+- `Docs/` — Misc, non-editable files, images
