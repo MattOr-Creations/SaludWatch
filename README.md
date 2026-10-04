@@ -23,7 +23,8 @@ graph TD;
     USBCharger-->TP4056;
     TP4056-->SlideSwitch;
     TP4056-->3.7VLiPobattery
-    SlideSwitch-->ESP32-WROOM-32;
+    SlideSwitch-->MT3608;
+    MT3608-->ESP32-WROOM-32;
     MAX30102-->|I2C|ESP32-WROOM-32;
     DS18B20-->|1-Wire|ESP32-WROOM-32;
     Buttons-->ESP32-WROOM-32;
