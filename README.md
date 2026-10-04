@@ -48,3 +48,6 @@ graph TD;
 - `Hardware/kicad/SaludWatch.kicad_sch` — Kicad Schematic + Wiring
 - `Firmware/` — Code? Not yet, planned for the future functional prototype
 - `Docs/` — Misc, non-editable files, images
+
+## Limitations
+Some parts such as the ESP32 board, the battery, the step up, and DS18B20 are very large and are only meant to prove the functionality of the prototype, they will change in a later version(They are also the only ones I found available near my hometown). I might also have mentioned that a blood pressure module would be added, but since they are VERY expensive(40$) and exceed the budget, those will be totally optional.
