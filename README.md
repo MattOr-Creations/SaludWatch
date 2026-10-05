@@ -78,7 +78,7 @@ Prices were in Peruvian soles(Since I live in Peru) so I calculated the prices u
 | 8 | Slide switch KBB-20 | 1 | 0.35 | 0.35 | [Nanoparuro](https://nanoparuro.com/shop/kbb-20-switch-deslizable-2-posiciones-kbb-20-132?search=KBB-2&order=name+asc#attr=) |
 | 9 | 3.7V 1000 mAh LiPo battery | 1 | 4.35 | 4.35 | [Nanoparuro](https://nanoparuro.com/shop/bateria-de-3-7v-litio-366?search=Bateria&order=name+asc#attr=550) |
 | 10 | D830B Multimeter | 1 | 5.79 | 5.79 | [Nanoparuro](https://nanoparuro.com/shop/dt-830d-multimetro-digital-con-puntas-de-prueba-d830b-203?search=multimetro&order=name+asc#attr=) |
-| | **Total** | | | **$48.61** | **about $48.61** |
+| | **Total** | | | **$39.61** | **about $39.61** |
 
 ## Limitations
 Some parts such as the ESP32 board, the battery, the step up, and DS18B20 are very large and are only meant to prove the functionality of the prototype, they will change in a later version(They are also the only ones I found available near my hometown). I might also have mentioned that a blood pressure module would be added, but since they are VERY expensive(40$) and exceed the budget, those will be totally optional.
