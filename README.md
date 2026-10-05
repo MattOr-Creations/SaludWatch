@@ -47,7 +47,7 @@ graph TD;
 - `Hardware/kicad/SaludWatch.kicad_pro` — Kicad Schematic + Wiring
 - `Hardware/kicad/SaludWatch.kicad_sch` — Kicad Schematic + Wiring
 - `Firmware/` — Code? Not yet, planned for the future functional prototype
-- `Docs/` — Misc, non-editable files, images
+- `Docs/` — Misc, non-editable files, diagrams and layout
 
 ## Layout + 3D design
 The final third design of all my drawn designs, had to do a box because 3D modelling is hard ;(. (Especially considering I have never done it, I was happy once I found out I could make any weird shaped figure with the line and extrude tool!)
