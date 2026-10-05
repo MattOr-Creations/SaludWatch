@@ -78,7 +78,6 @@ Prices were in Peruvian soles(Since I live in Peru) so I calculated the prices u
 | 8 | Slide switch KBB-20 | 1 | 0.35 | 0.35 | [Nanoparuro](https://nanoparuro.com/shop/kbb-20-switch-deslizable-2-posiciones-kbb-20-132?search=KBB-2&order=name+asc#attr=) |
 | 9 | 3.7V 1000 mAh LiPo battery | 1 | 4.35 | 4.35 | [Nanoparuro](https://nanoparuro.com/shop/bateria-de-3-7v-litio-366?search=Bateria&order=name+asc#attr=550) |
 | 10 | D830B Multimeter | 1 | 5.79 | 5.79 | [Nanoparuro](https://nanoparuro.com/shop/dt-830d-multimetro-digital-con-puntas-de-prueba-d830b-203?search=multimetro&order=name+asc#attr=) |
-| 11 | Tax and shipping (estimate) | 1 | 9.00 | 9.00 | not bought yet |
 | | **Total** | | | **$48.61** | **about $48.61** |
 
 ## Limitations
