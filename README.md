@@ -64,5 +64,22 @@ Exterior view, here we can see the lid, walls and strap lugs. The lid has one ho
 
 Lid+2layer view. Here we can appreciate the beautifully modelled lid, I even made a fit-able lid using the join operation with the extrude tool! And about the two layers, that coin sized hole is for the connections between all the modules. The layers aren't really attached at all, there's an space of 0.3mm from all sides with the two shelves I made[You can see them in the second pic]
 
+## Materials list
+Prices were in Peruvian soles(Since I live in Peru) so I calculated the prices using the exchange rate of Sol -> USD:
+| # | Part | Qty | Unit price ($) | Total ($) | Where to buy |
+|---|---|---|---|---|---|
+| 1 | ESP32-WROOM-32 38-pin dev board | 1 | 9.55 | 9.55 | [Nanoparuro](https://hifisac.com/shop/esp32-wroom-32-esp-wroom-32-placa-de-desarrollo-esp32-wroom32-38-pines-modulo-bluetooth-con-cp2102-1533?search=esp32&order=name+asc#attr=) |
+| 2 | USB-TC 1 meter | 1 | 2.90 | 2.90 | [Nanoparuro](https://nanoparuro.com/shop/usb-tc-cable-usb-a-tipo-c-para-transferir-datos-de-1-metro-usb-tc-1610#attr=) |
+| 3 | MAX30102 pulse oximeter module | 1 | 2.90 | 2.90 | [Nanoparuro](https://nanoparuro.com/shop/max30102-modulo-sensor-de-pulso-de-ritmo-cardiaco-pulsioximetro-pulsimetro-oximetro-max30102-1672?search=MAX30205&order=name+asc#attr=) |
+| 4 | OLED 0.96in I2C display | 1 | 5.80 | 5.80 | [Nanoparuro](https://nanoparuro.com/shop/oled096-i2c-display-oled-0-96-pulgadas-i2c-oled096-i2c-1111?search=OLED&order=name+asc#attr=) |
+| 5 | DS18B20 waterproof temperature probe | 1 | 2.90 | 2.90 | [Nanoparuro](https://nanoparuro.com/shop/ds18b20-cable-sensor-de-temperatura-digital-ds18b20-a-prueba-de-agua-55degc-a-125degc-304?search=DS18B20&order=name+asc#attr=) |
+| 6 | TP4056 charger with protection | 1 | 1.42 | 1.42 | [Nanoparuro](https://nanoparuro.com/shop/tp4056-prot-tp4056-prot-cargador-con-proteccion-para-baterias-de-litio-3-7v-con-entrada-micro-usb-233?search=TP4056&order=name+asc#attr=) |
+| 7 | MT3608 step-up converter | 1 | 1.60 | 1.60 | [Nanoparuro](https://nanoparuro.com/shop/mt3608-mt3608-conversor-dc-dc-step-up-ajustable-2-a-24-vsal-28v-242?search=MT3608&order=name+asc#attr=) |
+| 8 | Slide switch KBB-20 | 1 | 0.35 | 0.35 | [Nanoparuro](https://nanoparuro.com/shop/kbb-20-switch-deslizable-2-posiciones-kbb-20-132?search=KBB-2&order=name+asc#attr=) |
+| 9 | 3.7V 1000 mAh LiPo battery | 1 | 4.35 | 4.35 | [Nanoparuro](https://nanoparuro.com/shop/bateria-de-3-7v-litio-366?search=Bateria&order=name+asc#attr=550) |
+| 10 | D830B Multimeter | 1 | 5.79 | 5.79 | [Nanoparuro](https://nanoparuro.com/shop/dt-830d-multimetro-digital-con-puntas-de-prueba-d830b-203?search=multimetro&order=name+asc#attr=) |
+| 11 | Tax and shipping (estimate) | 1 | 9.00 | 9.00 | not bought yet |
+| | **Total** | | | **$46.56** | **about $46.56** |
+
 ## Limitations
 Some parts such as the ESP32 board, the battery, the step up, and DS18B20 are very large and are only meant to prove the functionality of the prototype, they will change in a later version(They are also the only ones I found available near my hometown). I might also have mentioned that a blood pressure module would be added, but since they are VERY expensive(40$) and exceed the budget, those will be totally optional.
